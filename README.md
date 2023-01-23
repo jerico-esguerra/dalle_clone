@@ -1,7 +1,7 @@
 # DALL-E CLONE
 
 ## Overview
-A full stack DALL-E clone application. Allows users to generate pictures based on text inputs.
+A full stack DALL-E MERN clone application. Allows users to generate pictures based on text inputs.
 
 ## Key Topics
 Built using modern technologies:
